@@ -3,7 +3,6 @@ import {Route, Routes} from "react-router-dom";
 import Main from "./Main";
 import College from "./about_college";
 import logo from "./static/media/photo_2022-06-07_14-36-37.png"
-import axios from "axios";
 import Managers from "./Managers";
 import Junior_Manager from "./Junior_Manager";
 import Teachers from "./Teachers";
